@@ -5,7 +5,7 @@
       "lastName": "Almeyda",
       "phone": "9524431",
       "email": "fredyalmeyda@gmail.com",
-      "dni": "812381328",
+      "dni": 812381328,
       "password": "Fredy",
       "confirmPassword": "Fredy",
       "id": 1
@@ -15,7 +15,7 @@
       "lastName": "Lastra",
       "phone": "123213",
       "email": "ginalastra@gmail.com",
-      "dni": "755444",
+      "dni": 75544412,
       "password": "Gina",
       "confirmPassword": "Gina",
       "id": 2
@@ -25,7 +25,7 @@
       "lastName": "Chamorro",
       "phone": "1231232",
       "email": "salvadorchamorro@gmail.com",
-      "dni": "123123",
+      "dni": 12312312,
       "password": "Salvador",
       "confirmPassword": "Salvador",
       "id": 3
@@ -35,7 +35,7 @@
       "lastName": "Crespo",
       "phone": "12312312",
       "email": "holaqtal@gmail.com",
-      "dni": "132132",
+      "dni": 23123123,
       "password": "Aquiles",
       "confirmPassword": "Aquiles",
       "id": 4
@@ -55,7 +55,7 @@
       "lastName": "Dicaprio",
       "phone": "83737478",
       "email": "leonardodicaprio@gmail.com",
-      "dni": "123123",
+      "dni": 54545454,
       "password": "Leonardo",
       "confirmPassword": "Leonardo",
       "id": 6
@@ -65,7 +65,7 @@
       "lastName": "Cruz",
       "phone": "87461238",
       "email": "penelope@gmail.com",
-      "dni": "7374727",
+      "dni": 98765432,
       "password": "Penelope",
       "confirmPassword": "Penelope",
       "id": 7
