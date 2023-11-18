@@ -1,5 +1,5 @@
 {
-  "students": [
+  "users": [
     {
       "firstName": "Fredy",
       "lastName": "Almeyda",
@@ -71,7 +71,7 @@
       "id": 7
     }
   ],
-  "tablas": [
+  "table": [
     {
       "N": 24,
       "monto": 123123,
