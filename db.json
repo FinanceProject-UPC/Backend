@@ -75,6 +75,17 @@
       "confirmPassword": "Penelope",
       "urlPhoto": "https://source.unsplash.com/300x300/?portrait&sig=1",
       "id": 7
+    },
+    {
+      "firstName": "Jose Manuel",
+      "lastName": "Martin Martin Senmache Sarmiento",
+      "phone": "12345678",
+      "email": "josesemache@gmail.com",
+      "dni": 12345678,
+      "password": "Jose",
+      "confirmPassword": "Jose",
+      "urlPhoto": "https://source.unsplash.com/300x300/?portrait&sig=1",
+      "id": 8
     }
   ],
   "table": [
